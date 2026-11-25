@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Temporary Streamlit files
+.streamlit/secrets.toml
